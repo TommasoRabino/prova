@@ -1,1 +1,3 @@
-prova prova
+# EXERCISE 3
+
+I am adding a few lines of text for the step 1 of exercise3 of Git / Github tutorial
